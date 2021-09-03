@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Document Admin">ffaf16d20b12301061b120f7304653f3</applicability>
+        <order>100</order>
+        <screen display_value="Home Admin">3baf16d29d123010f4486e64e29f37f5</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:41</sys_created_on>
+        <sys_id>7baf16d2cd1230108275ae41cfd093f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_7baf16d2cd1230108275ae41cfd093f5</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:41</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

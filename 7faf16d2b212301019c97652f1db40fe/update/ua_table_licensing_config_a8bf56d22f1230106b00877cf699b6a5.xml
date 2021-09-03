@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_690829_templat_0_document_approval</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:14</sys_created_on>
+        <sys_id>a8bf56d22f1230106b00877cf699b6a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_690829_templat_0_document_approval</sys_name>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>ua_table_licensing_config_a8bf56d22f1230106b00877cf699b6a5</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:14</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

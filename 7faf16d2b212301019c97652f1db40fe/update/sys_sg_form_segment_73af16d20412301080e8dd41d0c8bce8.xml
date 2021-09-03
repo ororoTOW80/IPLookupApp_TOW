@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">33af16d2be1230105fe587471d45ade7</embedded_screen>
+        <form display_value="Document Approval">bfaf16d29812301079606bdd714b73e7</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:37</sys_created_on>
+        <sys_id>73af16d20412301080e8dd41d0c8bce8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_sg_form_segment_73af16d20412301080e8dd41d0c8bce8</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:37</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

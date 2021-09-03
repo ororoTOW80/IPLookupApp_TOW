@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="Roboto">33af16d2ac1230109a4b12f2b749b5be</asset>
+        <properties>{"font-style":"normal", "font-weight":"400"}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7baf16d2681230100d67d4475df87bbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_7baf16d2681230100d67d4475df87bbe</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:17</sys_updated_on>
+        <theme display_value="Document Approval Workspace Theme">77af16d210123010c1f8e8015beba7df</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_690829_templat_0.submitter" name="x_690829_templat_0.submitter">37af16d21a123010aaa763d56b199ecb</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:19</sys_created_on>
+        <sys_id>fbaf16d22512301076567b3f5eec6df2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.</sys_name>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_user_role_contains_fbaf16d22512301076567b3f5eec6df2</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:19</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

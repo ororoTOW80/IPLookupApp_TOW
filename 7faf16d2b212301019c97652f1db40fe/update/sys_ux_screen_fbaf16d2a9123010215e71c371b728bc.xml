@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Template Alert Test Workspace Config">bbaf16d204123010b091568c036355de</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Attachment">b3af16d26d1230105cf7a36ff03f1bba</macroponent>
+        <macroponent_config/>
+        <name>Attachments default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record">37af16d24c1230106a5f76b8710c18f3</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="">23af4455770120109837b73aba106103</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fbaf16d2a9123010215e71c371b728bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachments default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_ux_screen_fbaf16d2a9123010215e71c371b728bc</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:38</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fbaf16d2a9123010215e71c371b728bc"/>
+</record_update>

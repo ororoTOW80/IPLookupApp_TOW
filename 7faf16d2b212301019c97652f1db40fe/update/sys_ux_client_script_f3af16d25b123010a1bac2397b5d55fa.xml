@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Record">b7af16d277123010d7f9935ded2eb1f9</macroponent>
+        <name>Log Related List Refresh Request on Record Page</name>
+        <required_translations/>
+        <script><![CDATA[function handler({api, event, imports}) {
+	const rlName = event.payload.relatedListName;
+	if (rlName) {
+		let rlRequests = {...api.state.relatedListRefreshRequests};
+		rlRequests[rlName] = { timestamp: new Date().getTime() };
+		api.setState('relatedListRefreshRequests', rlRequests);
+	}
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:35</sys_created_on>
+        <sys_id>f3af16d25b123010a1bac2397b5d55fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log Related List Refresh Request on Record Page</sys_name>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_ux_client_script_f3af16d25b123010a1bac2397b5d55fa</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:35</sys_updated_on>
+    </sys_ux_client_script>
+</record_update>

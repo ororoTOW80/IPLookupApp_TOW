@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Return document">7baf16d244123010233c108283a6a1e5</button>
+        <item_parameter display_value="comments">bbaf16d2211230109c26cb20d6d678e5</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:26</sys_created_on>
+        <sys_id>fbaf16d2f61230100c9f5c1fe60e4ae5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bbaf16d2211230109c26cb20d6d678e5</sys_name>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_fbaf16d2f61230100c9f5c1fe60e4ae5</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:26</sys_updated_on>
+        <ui_parameter display_value="Reason for returning">3baf16d2ae123010224997c92f423be5</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

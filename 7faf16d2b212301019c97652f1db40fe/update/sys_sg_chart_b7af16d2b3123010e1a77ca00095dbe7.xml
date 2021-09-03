@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Navigate to document approvals this year">7baf16d2761230109d7bbd9fdae419e6</jump_to_screen>
+        <name>Approvals This Year</name>
+        <report display_value="Approvals This Year">3faf16d2031230106505c85e34ff08e0</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:23</sys_created_on>
+        <sys_id>b7af16d2b3123010e1a77ca00095dbe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approvals This Year</sys_name>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_sg_chart_b7af16d2b3123010e1a77ca00095dbe7</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:23</sys_updated_on>
+        <title>Approvals This Year</title>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

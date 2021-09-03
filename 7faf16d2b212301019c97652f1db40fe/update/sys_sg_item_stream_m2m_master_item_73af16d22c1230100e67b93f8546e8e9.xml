@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="New Document Aprpovals Item Stream">7baf16d22c123010fa1edea542ec2fe8</item_stream>
+        <master_item display_value="New Document Aprpovals Main Item">b3af16d20d123010ff9ca4ab211bb0e9</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:18</sys_created_on>
+        <sys_id>73af16d22c1230100e67b93f8546e8e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_73af16d22c1230100e67b93f8546e8e9</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:18</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

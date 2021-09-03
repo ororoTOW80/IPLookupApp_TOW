@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_section">
+    <sys_sg_chart_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <charts>77af16d2341230108fa4fcb3efebfbe7,b7af16d2b3123010e1a77ca00095dbe7,37af16d25d123010351e0655ab0d03e7</charts>
+        <data_item/>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>horizontal</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_chart_section</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:35</sys_created_on>
+        <sys_id>bfaf16d2bd12301052f9a5e180334fe5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approvals</sys_name>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_sg_chart_section_bfaf16d2bd12301052f9a5e180334fe5</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:35</sys_updated_on>
+        <table/>
+        <title>Document Approvals</title>
+        <type>single_score</type>
+        <visible_condition/>
+    </sys_sg_chart_section>
+</record_update>

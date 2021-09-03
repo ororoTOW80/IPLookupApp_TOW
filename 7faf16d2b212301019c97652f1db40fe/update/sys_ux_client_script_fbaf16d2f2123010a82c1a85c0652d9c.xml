@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="doc_submit">77af16d225123010d68a0210c9d14f9a</macroponent>
+        <name>NavigateToSubmittedPage</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+    helpers.navigate.to("doc_submitted",{"sysId":api.state.sysId});
+}
+]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:37</sys_created_on>
+        <sys_id>fbaf16d2f2123010a82c1a85c0652d9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NavigateToSubmittedPage</sys_name>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_ux_client_script_fbaf16d2f2123010a82c1a85c0652d9c</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:37</sys_updated_on>
+    </sys_ux_client_script>
+</record_update>

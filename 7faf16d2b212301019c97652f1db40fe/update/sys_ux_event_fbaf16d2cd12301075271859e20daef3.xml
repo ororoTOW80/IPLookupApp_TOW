@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <event_name>DATA_CARD_CLICKED</event_name>
+        <interfaces/>
+        <label>Data Card Clicked</label>
+        <props>[{"name":"sysid","fieldType":"","label":"Syd ID","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props>
+        <required_translations>[{"message":"Syd ID","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:41</sys_created_on>
+        <sys_id>fbaf16d2cd12301075271859e20daef3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Data Card Clicked</sys_name>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_ux_event_fbaf16d2cd12301075271859e20daef3</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:41</sys_updated_on>
+    </sys_ux_event>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>UX View Rule Configuration ID</description>
+        <name>viewRuleConfigId</name>
+        <page display_value="Template Alert Test Workspace">bbaf16d2b712301080d76bee050496ba</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>7faf16d234123010249c2962b8fb81bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>viewRuleConfigId</sys_name>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_ux_page_property_7faf16d234123010249c2962b8fb81bb</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:51</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_690829_templat_0.bbaf16d2b712301080d76bee050496ba.root.viewRuleConfigId</unique_name>
+        <value>bfaf16d219123010cbc2e95b1c8463bb</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=7faf16d234123010249c2962b8fb81bb"/>
+</record_update>

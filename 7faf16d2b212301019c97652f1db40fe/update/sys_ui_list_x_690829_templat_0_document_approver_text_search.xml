@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_690829_templat_0_document_approver" version="2" view="text_search">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>document</element>
+            <list_id display_value="x_690829_templat_0_document_approver" element="NULL" name="x_690829_templat_0_document_approver" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">7faf16d29f1230103b23571511f3c2ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2021-09-02 07:17:51</sys_created_on>
+            <sys_id>bfaf16d22f1230105b99b32e368b67ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2021-09-02 07:17:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approver</element>
+            <list_id display_value="x_690829_templat_0_document_approver" element="NULL" name="x_690829_templat_0_document_approver" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">7faf16d29f1230103b23571511f3c2ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2021-09-02 07:17:51</sys_created_on>
+            <sys_id>ffaf16d27d1230104f01d8e5bff61eed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2021-09-02 07:17:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_690829_templat_0_document_approver" element="NULL" name="x_690829_templat_0_document_approver" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">7faf16d29f1230103b23571511f3c2ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2021-09-02 07:17:51</sys_created_on>
+            <sys_id>33af16d21912301052c61c9af484d9ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2021-09-02 07:17:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_690829_templat_0_document_approver" element="NULL" name="x_690829_templat_0_document_approver" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">7faf16d29f1230103b23571511f3c2ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2021-09-02 07:17:51</sys_created_on>
+            <sys_id>73af16d28c123010fe441406c1b956ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2021-09-02 07:17:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_690829_templat_0_document_approver</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2021-09-02 07:17:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7faf16d29f1230103b23571511f3c2ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_690829_templat_0_document_approver</sys_name>
+            <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+            <sys_update_name>sys_ui_list_x_690829_templat_0_document_approver_text_search</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2021-09-02 07:17:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Text_search" name="text_search">0c029fc00a0a0b2c001aa3d4ed9f69e8</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

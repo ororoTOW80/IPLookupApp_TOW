@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="doc-approval-get-returned">ffaf16d2f71230100322ca744102419c</dataset>
+        <datasource display_value="doc-approval-get-returned">73af16d25c12301001dad4fd7fce289d</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:38</sys_created_on>
+        <sys_id>37af16d2841230100e86a15e0cb3579d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_37af16d2841230100e86a15e0cb3579d</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:38</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

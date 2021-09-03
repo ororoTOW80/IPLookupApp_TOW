@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Navigate to needs attention">ffaf16d252123010ea9f1a46793858e6</jump_to_screen>
+        <name>Needs Attention</name>
+        <report display_value="Needs Attention">bbaf16d2c912301004b31f4cceb63de0</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:54</sys_created_on>
+        <sys_id>77af16d2341230108fa4fcb3efebfbe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needs Attention</sys_name>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_sg_chart_77af16d2341230108fa4fcb3efebfbe7</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:54</sys_updated_on>
+        <title>Needs Attention</title>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

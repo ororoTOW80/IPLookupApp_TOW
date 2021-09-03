@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="Template Alert Test - Document Approval Search Profile">73af16d2e012301034a7a56b165201c1</profile>
+        <search_source display_value="Document Approval">b3af16d220123010e07dac0024452bc4</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:20</sys_created_on>
+        <sys_id>fbaf16d205123010e52dfd302bf124c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_fbaf16d205123010e52dfd302bf124c4</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:20</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

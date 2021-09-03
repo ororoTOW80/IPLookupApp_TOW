@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Ribbon Config ID</description>
+        <name>ribbonConfigId</name>
+        <page display_value="Template Alert Test Workspace">bbaf16d2b712301080d76bee050496ba</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-02 07:17:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>77af16d29e1230103f0b3eb9e55addbb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="Template Alert Test" source="x_690829_templat_0">7faf16d2b212301019c97652f1db40fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Template Alert Test">7faf16d2b212301019c97652f1db40fe</sys_scope>
+        <sys_update_name>sys_ux_page_property_77af16d29e1230103f0b3eb9e55addbb</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:17:37</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_690829_templat_0.bbaf16d2b712301080d76bee050496ba.root.ribbonConfigId</unique_name>
+        <value>b7af16d2601230101e1cd78d46ebf6bb</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=77af16d29e1230103f0b3eb9e55addbb"/>
+</record_update>
